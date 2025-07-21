@@ -1,1 +1,1 @@
-web: bench start
+web: bench start --port 8000 --host 0.0.0.0
